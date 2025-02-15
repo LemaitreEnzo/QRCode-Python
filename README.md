@@ -13,13 +13,10 @@ Ce projet permet de générer un QR code à partir d'un texte ou d'une URL en ut
     source myenv/bin/activate  # Sur Linux/macOS
     myenv\Scripts\activate    # Sur Windows
 
-
 2. Créer un environnement virtuel (optionnel mais recommandé)
 
     ```bash
     pip install -r requirements.txt
-
-
 
 ## Utilisation
 
