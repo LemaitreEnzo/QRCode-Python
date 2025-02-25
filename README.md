@@ -10,6 +10,7 @@ Ce projet permet de générer un QR code à partir d'un texte ou d'une URL en ut
 
    ```bash
    git clone https://github.com/LemaitreEnzo/QRCode-Python.git
+   cd QRCode-Python
 
 2. Créer un environnement virtuel (optionnel mais recommandé)
 
