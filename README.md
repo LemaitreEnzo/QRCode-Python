@@ -6,14 +6,19 @@ Ce projet permet de générer un QR code à partir d'un texte ou d'une URL en ut
 
 ## Installation
 
-1. Créer un environnement virtuel (optionnel mais recommandé)
+1. Clonez le projet:
+
+   ```bash
+   git clone https://github.com/LemaitreEnzo/QRCode-Python.git
+
+2. Créer un environnement virtuel (optionnel mais recommandé)
 
     ```bash
     python3 -m venv myenv
     source myenv/bin/activate  # Sur Linux/macOS
     myenv\Scripts\activate    # Sur Windows
 
-2. Créer un environnement virtuel (optionnel mais recommandé)
+3. Créer un environnement virtuel (optionnel mais recommandé)
 
     ```bash
     pip install -r requirements.txt
